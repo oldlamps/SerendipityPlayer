@@ -1,6 +1,9 @@
 # Serendipity Player
 
-A lean-back video player for rediscovering your local media library through random, short clips.
+
+## About
+
+An mpv video player frontend for rediscovering your local media library through random, short clips.
 
 ## About The Project
 
